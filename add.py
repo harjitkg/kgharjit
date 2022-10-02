@@ -1,3 +1,6 @@
-a = 1 
-b = 2
-print (a + b )
+a = 15
+b = 6
+a=(input("enter a ="))
+b=(input("enter b ="))
+s= a + b
+print ("sum = ",s)
