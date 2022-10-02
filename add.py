@@ -1,4 +1,4 @@
-a = 12
+a = 312
 b = 6
 a=(input("enter a ="))
 b=(input("enter b ="))
